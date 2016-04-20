@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_b424ea793bcc77d6064f6f8a3e1ff2c0655b3308/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c92b57c2a5d49ce9941dd7ec7a8db8be45b94697">
+        <dex dex="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e8b89046a8845aab414cc826a50dc37bc6492179/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_0d3fdb4a6e449db47bf564a800a3f11893b44ade/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_f1e101166fd2f615d833342156db5c90923a7d7c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.4.0_2ca8e9b93ef9a6d1b866ddc91a890b05369739a9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.support-wearable-1.3.0_6088fd6613206d24d2a211bfbe7e92e32a30c075/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_79afc60a2ed6448555fa07f4c4e4fa0e39ee8c0f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_2cd284cc5f6f191c410b4992e84d919fad6ec050/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_1de8bd301391fa59bc50dbc1b2e8d7b6f4325a04/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3a5fd88ba42d490e40ac06946a417a7cd1184c71">
+        <dex dex="/Users/user/Desktop/WorkProjects/nano-degreeCourse/Project/Advanced_Android_Development/sunshinewear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_290e19323dbf73c4fe7169eef3cc367b2eb044e9/classes.dex" />
+    </item>
+
+</items>
